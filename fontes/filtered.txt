@@ -33,8 +33,6 @@ abolir
 abonar
 abono
 abordar
-abortar
-aborto
 abotoar
 about
 abrasar
