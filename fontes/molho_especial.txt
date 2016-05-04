@@ -1,0 +1,18 @@
+# Unidades da federação
+AC AL AP AM BA CE DF ES GO MA MT MS MG PA PB PR PE PI RJ RN RS RO RR SC SP SE TO
+
+# Siglas
+ABCD BC CEP CLT CNH CNPJ CPI CPF CRT CV DARF DDD DDI ENEM FTW
+GIF HDMI HDTV HTTP IDH IMC IRPJ LCD MASP MMDC NF OK OVNI PDF
+PVT RG RSVP SKU SLA SQN SSP STF STJ STL SVG TRE TSE UF UFO VGA
+
+# Alfabeto fonético internacional
+alfa bravo charlie delta echo foxtrot golf hotel india juliet kilo lima mike november
+oscar papa quebec romeo sierra tango uniform victor whiskey x-ray yankee zulu
+
+# Alfabeto fonético casual brasileiro - CONTÉM 3 ACENTOS!
+amor bandeira cobra dado estrela feira goiaba hotel índio josé kiwi lua maria
+navio ouro pipa quilombo raiz saci tatu uva vitória wilson xadrez yes zebra
+
+# Para completar a tirinha "Password Strength" em PT-BR
+correto
