@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
-from random import SystemRandom
+import random
 
-rnd = SystemRandom()
+rnd = random.SystemRandom()
 
 D1 = '⚀'
 dado_cars = dict(zip('123456',
@@ -18,7 +18,4 @@ for i in range(6):
         print(dado_cars[d], end=' ')
     print(end='\t')
     print(dados[0], dados[1], sep=',', end='\t')
-    print(dados[2:], end='\t')
-    print(dadoware[dados])
-
-
+    print(dados[2:], dadoware[dados], sep='\t')
