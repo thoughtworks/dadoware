@@ -13,7 +13,7 @@ Estes PDFs podem ser usados para imprimir o livreto de 40 páginas + capa, em fo
 
 `livreto/dadoware-intro.pdf`: introdução e instruções de uso (4 páginas, P&B)
 
-`livreto/dadoware-capa.pdf`: lista de palavras (36 p[aginas, P&B)
+`livreto/dadoware-lista.pdf`: lista de palavras (36 p[aginas, P&B)
 
 Os arquivos `.ODT` são arquivos de LibreOffice editáveis para as 40 páginas do miolo do livreto.
 
