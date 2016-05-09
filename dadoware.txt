@@ -3278,10 +3278,10 @@
 34212 fossa
 34213 fóssil
 34214 fosso
-34215 fotão
-34216 foto
+34215 foto
+34216 fóton
 34221 foz
-34222 fracção
+34222 fração
 34223 fraco
 34224 fractal
 34225 frade
