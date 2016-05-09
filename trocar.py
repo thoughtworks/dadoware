@@ -10,11 +10,13 @@ do arquivo fontes/excluidas_por_sorteio.txt.
 import unicodedata
 import sys
 import random
+import itertools
 
 PATH_PALAVRAS = '7776palavras.txt'
 QT_PALAVRAS = 6 ** 5
 PATH_DADOWARE = 'dadoware.txt'
-PATH_CANDIDATAS = 'fontes/canditatas.txt'
+PATH_CANDIDATAS = 'fontes/candidatas.txt'
+
 
 def shave_marks(txt):
     """Remove all diacritic marks"""
@@ -22,8 +24,10 @@ def shave_marks(txt):
     shaved = ''.join(c for c in norm_txt if not unicodedata.combining(c))
     return unicodedata.normalize('NFC', shaved)
 
+
 def normalizar(txt):
     return shave_marks(txt).lower()
+
 
 def duplicatas():
     with open(PATH_PALAVRAS, encoding='utf8') as fp:
@@ -56,10 +60,10 @@ def trocar(retirar, adicionar=None):
         adicionar = random.choice(candidatas)
         ex_candidata = adicionar
     else:
-        if adicionar in canditatas:
+        if adicionar in candidatas:
             ex_candidata = adicionar
         else:
-            ex_canditata = None
+            ex_candidata = None
     if normalizar(adicionar) in palavras_set:
         ad_norm = normalizar(adicionar)
         print('*** Erro: palavra {!r} já existe.'.format(ad_norm))
@@ -70,14 +74,16 @@ def trocar(retirar, adicionar=None):
     print('- {} | + {}'.format(retirar, adicionar))
     with open(PATH_PALAVRAS, 'wt', encoding='utf8') as fp:
         fp.write('\n'.join(palavras) + '\n')
+    dados5 = list(''.join(dados) for dados in itertools.product('123456', repeat=5))
+    with open(PATH_DADOWARE, 'wt', encoding='utf8') as fp:
+        for indice, palavra in zip(dados5, palavras):
+            linha = '{} {}\n'.format(indice, palavra)
+            fp.write(linha)
     if ex_candidata is not None:
         candidatas.remove(ex_candidata)
         candidatas.sort(key=normalizar)
         with open(PATH_CANDIDATAS, 'wt', encoding='utf8') as fp:
-            fp.write('\n'.join(canditatas) + '\n')
-
-
-
+            fp.write('\n'.join(candidatas) + '\n')
 
 
 if __name__ == '__main__':

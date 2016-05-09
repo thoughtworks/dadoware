@@ -47,9 +47,6 @@ absorto
 abster
 absurdo
 abundar
-abusar
-abusivo
-abuso
 abutre
 acabado
 acabar
@@ -57,11 +54,11 @@ acácia
 acalmar
 acamar
 acampar
+ação
 ácaro
 acartar
 acaso
 acatar
-acção
 aceder
 aceitar
 aceite
@@ -93,6 +90,7 @@ aclarar
 aço
 acolá
 acolher
+acólito
 acordar
 acorde
 acordo
@@ -129,9 +127,9 @@ adjunto
 admirar
 admitir
 adobe
+adoção
 adoçar
 adoecer
-adopção
 adorado
 adorar
 adornar
@@ -203,7 +201,6 @@ agitado
 agitar
 agoiro
 agonia
-ágora
 agora
 agouro
 agradar
@@ -250,6 +247,7 @@ alarme
 alaúde
 alazão
 alba
+albanês
 albarda
 albino
 álbum
@@ -286,6 +284,7 @@ alfaia
 alferes
 alforge
 alga
+álgebra
 algema
 algo
 algoz
@@ -316,7 +315,6 @@ almeida
 almejar
 almoçar
 almoço
-aló
 alô
 alojado
 alojar
@@ -401,7 +399,6 @@ amoroso
 amostra
 amparar
 amparo
-ampere
 ampère
 ampliar
 amplo
@@ -456,6 +453,7 @@ anistia
 anjinho
 anjo
 ano
+anómalo
 anónimo
 anormal
 anotado
@@ -493,6 +491,7 @@ aparo
 apartar
 aparte
 apatia
+apático
 ape
 apear
 apegado
@@ -598,7 +597,9 @@ armada
 armado
 armador
 armar
-arménio
+armário
+armênia
+armênio
 arneiro
 aro
 aroeira
@@ -668,6 +669,7 @@ assento
 assíduo
 assim
 assinar
+assíria
 assoar
 assobio
 assolar
@@ -714,7 +716,7 @@ atleta
 atol
 atolado
 atolar
-atómico
+atômico
 átomo
 atónito
 atracar
@@ -735,7 +737,6 @@ Au
 audácia
 audaz
 audição
-audio
 áudio
 auditor
 audível
@@ -790,7 +791,6 @@ aviso
 avistar
 avivar
 avó
-avô
 avulso
 avultar
 axé
@@ -814,7 +814,6 @@ azulado
 azulão
 azulejo
 b
-babá
 baba
 babado
 babar
@@ -884,7 +883,6 @@ bandeja
 bandida
 bandido
 bando
-bandó
 bang
 bangu
 banha
@@ -985,7 +983,6 @@ bello
 belo
 bem
 bemol
-benção
 bênção
 bendito
 benesse
@@ -1039,7 +1036,6 @@ bip
 bípede
 birra
 bis
-bisavó
 bisavô
 bisco
 bisneto
@@ -1223,6 +1219,7 @@ bula
 bulbo
 búlgaro
 bulha
+bulício
 bulir
 buquê
 buraco
@@ -1266,8 +1263,6 @@ cabra
 cabrão
 cabrita
 cabrito
-cacá
-caça
 caçado
 cação
 caçar
@@ -1316,7 +1311,6 @@ calça
 calçado
 calção
 calcar
-calçar
 cálcio
 calcite
 cálculo
@@ -1354,7 +1348,6 @@ cambrar
 camélia
 camelo
 câmera
-camera
 camião
 caminho
 camisa
@@ -1576,6 +1569,7 @@ ceifa
 ceifado
 ceifar
 cela
+célebre
 celeiro
 célere
 celeste
@@ -1632,6 +1626,7 @@ cetim
 céu
 cevado
 chá
+chácara
 chacina
 chacota
 chaga
@@ -1725,6 +1720,7 @@ ciciar
 cíclico
 ciclo
 ciclone
+cidadão
 cidade
 ciência
 ciente
@@ -1787,12 +1783,15 @@ claro
 clas
 classe
 clave
+clérigo
 clero
 clicar
 cliché
 cliente
 clima
 clímax
+clínica
+clínico
 clip
 clipe
 clique
@@ -1830,6 +1829,7 @@ codesso
 códice
 código
 coelho
+coerção
 coesão
 coeso
 cofre
@@ -1883,7 +1883,6 @@ comando
 comarca
 combate
 comboio
-combóio
 começar
 começo
 comedor
@@ -1914,7 +1913,6 @@ condão
 conde
 conduta
 cone
-cónego
 cônego
 conexão
 confiar
@@ -1983,6 +1981,7 @@ coronel
 corpete
 corpo
 corpus
+córrego
 correia
 correio
 correr
@@ -2009,6 +2008,7 @@ costela
 costume
 costura
 cota
+cotação
 cotado
 cotar
 cotio
@@ -2071,6 +2071,7 @@ crista
 cristal
 cristão
 cristo
+crítica
 crível
 crivo
 croata
@@ -2174,7 +2175,6 @@ datação
 datado
 datar
 de
-dê
 deão
 debaixo
 debalde
@@ -2262,6 +2262,7 @@ derrota
 derrube
 desabar
 desafio
+deságio
 desaire
 desatar
 descair
@@ -2321,6 +2322,8 @@ dia
 diabo
 diacho
 diáfano
+diálise
+diálogo
 diante
 diário
 dica
@@ -2328,6 +2331,7 @@ die
 diesel
 dieta
 diferir
+difícil
 difusão
 difuso
 digerir
@@ -2369,7 +2373,6 @@ dito
 ditongo
 ditoso
 diurno
-divã
 diva
 divagar
 diverso
@@ -2513,12 +2516,14 @@ educado
 educar
 eduli
 efeito
+efémero
 eficaz
 efusão
 efusivo
 égide
 egípcio
 ego
+egoísmo
 eia
 eira
 eiró
@@ -2556,6 +2561,7 @@ embate
 embater
 embeber
 embora
+embrião
 embutir
 emenda
 emendar
@@ -2581,6 +2587,7 @@ empório
 emprego
 empresa
 empurra
+emulsão
 encaixe
 encanto
 encarar
@@ -2696,6 +2703,7 @@ errar
 erro
 errôneo
 erudito
+erupção
 erva
 ervilha
 esbater
@@ -2734,6 +2742,7 @@ escutar
 esfera
 esfinge
 esfolar
+esforço
 esfriar
 esfumar
 esganar
@@ -2769,6 +2778,7 @@ espia
 espião
 espiar
 espiga
+espigão
 espinha
 espinho
 espira
@@ -2801,6 +2811,7 @@ estadão
 estadia
 estádio
 estado
+estágio
 estai
 estalar
 estalo
@@ -2823,6 +2834,7 @@ esterco
 esterno
 esteta
 esteva
+estevão
 esticão
 esticar
 estigma
@@ -2835,6 +2847,7 @@ estiva
 estival
 estocar
 estofo
+estóico
 estojo
 estónio
 estopa
@@ -2874,7 +2887,6 @@ etnia
 etrusco
 eu
 euforia
-eugenia
 eurásio
 euro
 europa
@@ -2937,7 +2949,6 @@ extremo
 exultar
 f
 fã
-fá
 fabiano
 fábrica
 fabrico
@@ -3070,6 +3081,7 @@ fenício
 feno
 fenol
 fera
+féretro
 féria
 feriado
 feriar
@@ -3137,7 +3149,6 @@ filiar
 film
 filmar
 filme
-filo
 filó
 filtrar
 filtro
@@ -3145,6 +3156,7 @@ fim
 fina
 finado
 final
+finança
 finar
 fincado
 fincar
@@ -3239,10 +3251,6 @@ fonema
 fonte
 fora
 foral
-forca
-força
-forçado
-forcado
 forçar
 forçoso
 forense
@@ -3255,16 +3263,15 @@ formar
 formato
 formiga
 formoso
+fórmula
 forno
 foro
 forrado
 forrar
-forró
 forro
 forte
 fortuna
 fórum
-forum
 fosca
 fosfato
 fósforo
@@ -3311,6 +3318,7 @@ frescor
 fresta
 frete
 friagem
+fricção
 frieza
 frincha
 frio
@@ -3396,7 +3404,6 @@ gaiola
 gaita
 gaivota
 gajo
-galã
 gala
 galante
 galão
@@ -3421,7 +3428,6 @@ gâmbia
 gamboa
 game
 gamela
-gâmeta
 gameta
 gamo
 gana
@@ -3526,6 +3532,7 @@ gibão
 giesta
 gigante
 gin
+ginásio
 ginete
 gingar
 girafa
@@ -3766,6 +3773,7 @@ hutu
 i
 ião
 iate
+ibérico
 ibope
 içar
 iceberg
@@ -3846,6 +3854,7 @@ inchaço
 inchado
 inchar
 incidir
+incisão
 inciso
 incitar
 incluir
@@ -3857,7 +3866,6 @@ indagar
 índex
 indiano
 indicar
-indice
 índice
 indício
 índico
@@ -3882,6 +3890,7 @@ inflar
 influir
 influxo
 informe
+infusão
 ingénuo
 ingerir
 inglés
@@ -3907,6 +3916,7 @@ insular
 insulto
 insumo
 intacto
+íntegra
 íntegro
 inteira
 inteiro
@@ -3920,6 +3930,7 @@ intriga
 intruso
 intuir
 intuito
+inúmero
 inundar
 inútil
 invadir
@@ -3959,6 +3970,7 @@ isento
 islão
 isolado
 isolar
+isótopo
 israel
 isso
 istmo
@@ -4033,7 +4045,6 @@ judia
 judo
 jugo
 juiz
-juíz
 juíza
 juizado
 juízo
@@ -4059,14 +4070,13 @@ jus
 jusante
 justa
 justeza
+justiça
 justo
 juvenil
 k
 kit
 km/h
 l
-lã
-lá
 lábio
 labor
 laboral
@@ -4251,7 +4261,6 @@ lida
 lidar
 lide
 líder
-lider
 liderar
 lido
 liga
@@ -4271,6 +4280,7 @@ limite
 limo
 limpar
 limpeza
+límpido
 limpo
 linda
 lindeza
@@ -4325,6 +4335,7 @@ locação
 local
 loção
 locar
+locução
 locutor
 lodo
 lodoso
@@ -4404,10 +4415,9 @@ luzente
 luzidio
 luzir
 m
-maçã
-maça
 maca
 macabro
+macacão
 maçada
 maçar
 mach
@@ -4431,8 +4441,6 @@ madre
 maduro
 mãe
 maestro
-máfia
-mafia
 mafioso
 magia
 mágico
@@ -4482,7 +4490,6 @@ maluco
 malva
 malvado
 mama
-mamã
 mamãe
 mamão
 mamar
@@ -4508,7 +4515,6 @@ manga
 mangar
 mangue
 manha
-manhã
 manhoso
 mania
 maníaco
@@ -4538,6 +4544,7 @@ marajá
 maranha
 marca
 marcado
+marçano
 marcar
 marcha
 marchar
@@ -4613,7 +4620,6 @@ mecha
 meda
 medalha
 média
-media
 mediado
 medial
 mediana
@@ -4718,6 +4724,7 @@ milha
 milhão
 milhar
 milho
+milícia
 militar
 mimado
 mimar
@@ -4909,6 +4916,7 @@ murcho
 muro
 murro
 musa
+músculo
 museu
 musgo
 música
@@ -4942,6 +4950,7 @@ nasal
 nascer
 nascido
 nata
+natação
 natal
 nativo
 nato
@@ -4949,6 +4958,7 @@ natura
 natural
 nau
 náusea
+náutico
 nava
 naval
 navalha
@@ -4956,17 +4966,16 @@ navarro
 nave
 navegar
 navio
-nazi
-nazismo
-nazista
 neblina
 néctar
 nédio
 nefando
 nefasto
+negação
 negado
 negão
 negar
+negócio
 negrada
 negrão
 negro
@@ -4988,6 +4997,7 @@ neural
 neurose
 neutral
 neutro
+nêutron
 nevada
 nevão
 nevar
@@ -4999,6 +5009,7 @@ ni
 nicho
 ninar
 ninfa
+ninguém
 ninhada
 ninho
 nini
@@ -5007,7 +5018,6 @@ nitidez
 nítido
 nitrato
 nível
-nivel
 nivelar
 nó
 nobel
@@ -5038,14 +5048,15 @@ normal
 norte
 nortear
 nos
-nós
 nosso
 nota
+notação
 notado
 notar
 notário
 notável
 notícia
+notório
 notre
 nouveau
 nova
@@ -5079,7 +5090,6 @@ nutrir
 nuvem
 nylon
 o
-ó
 oásis
 obeso
 oblíquo
@@ -5197,10 +5207,8 @@ ordem
 ordenar
 ordenha
 orelha
-orfão
 órfão
 órgão
-orgão
 orgasmo
 orgia
 orgulho
@@ -5322,12 +5330,12 @@ panteão
 pantera
 pão
 papa
-papá
 papado
 papai
 papal
 papar
 papel
+papelão
 paper
 papila
 papiro
@@ -5458,13 +5466,13 @@ pele
 pelego
 peleja
 pelica
-pêlo
 pelo
 pelota
 pelotão
 pelouro
 peludo
 pelve
+pélvico
 pena
 penacho
 penado
@@ -5490,7 +5498,6 @@ pentear
 penugem
 pepino
 pequeno
-pêra
 pera
 perante
 perca
@@ -5509,7 +5516,7 @@ perfil
 perfume
 perícia
 perigo
-periodo
+período
 périplo
 perito
 permear
@@ -5517,7 +5524,6 @@ permuta
 perna
 pernada
 pero
-pêro
 pérola
 perro
 persa
@@ -5714,7 +5720,6 @@ pop
 popa
 popó
 popular
-pôr
 por
 porão
 porca
@@ -5723,7 +5728,6 @@ porco
 porém
 poro
 poroso
-porquê
 porque
 porrada
 porta
@@ -5774,12 +5778,12 @@ prancha
 pranto
 prata
 pratas
+prática
 prato
 praxe
 prazer
 prazo
 pré
-pre
 prece
 preciso
 preço
@@ -5944,7 +5948,6 @@ quinto
 quinze
 quitar
 quo
-quórum
 quorum
 quota
 r
@@ -6163,6 +6166,7 @@ remendo
 remessa
 remeter
 remexer
+remígio
 remo
 remoção
 remoer
@@ -6200,12 +6204,12 @@ repor
 repouso
 represa
 réptil
+repúdio
 repulsa
 reputar
 repuxar
 repuxo
 rês
-rés
 resenha
 reserva
 resgate
@@ -6236,6 +6240,7 @@ retrair
 retrato
 returno
 réu
+reunião
 reunir
 revel
 revelar
@@ -6306,7 +6311,6 @@ roberto
 robô
 robusto
 roca
-roça
 roçado
 roçar
 roceiro
@@ -6598,8 +6602,7 @@ senha
 senhor
 senhora
 senil
-senior
-sénior
+sênior
 seno
 sensato
 senso
@@ -6766,12 +6769,12 @@ solidão
 solidez
 sólido
 solista
-sólo
 solo
 solta
 soltar
 solto
 solução
+soluçar
 soluço
 soluto
 solúvel
@@ -6801,6 +6804,7 @@ soprado
 soprano
 soprar
 sopro
+sórdido
 soro
 sorrir
 sorriso
@@ -6818,7 +6822,6 @@ souto
 sova
 sovaco
 soviete
-sózinho
 sozinho
 spa
 space
@@ -6845,7 +6848,6 @@ súbito
 sublime
 suborno
 subsolo
-subtil
 sucata
 sucção
 suceder
@@ -6865,7 +6867,6 @@ suíça
 suicida
 suíço
 suíno
-suite
 suíte
 sujar
 sujeira
@@ -6943,6 +6944,7 @@ talhe
 talher
 talho
 talibã
+talismã
 talo
 talude
 talvez
@@ -6951,7 +6953,6 @@ tamanho
 tâmara
 também
 tambor
-tamil
 tâmil
 tampa
 tampão
@@ -7002,6 +7003,7 @@ tecer
 tecido
 tecla
 teclado
+técnica
 técnico
 tédio
 teia
@@ -7019,6 +7021,7 @@ tema
 temente
 temer
 temido
+temível
 temor
 têmpera
 tempero
@@ -7049,6 +7052,7 @@ tépido
 ter
 terapia
 terça
+terçado
 terço
 terma
 termal
@@ -7073,7 +7077,6 @@ teta
 tetro
 teu
 têxtil
-textil
 texto
 textual
 textura
@@ -7205,6 +7208,7 @@ total
 touca
 tour
 tourada
+tournée
 touro
 tóxico
 toxina
@@ -7230,7 +7234,6 @@ trama
 tramar
 trâmite
 tranca
-trança
 trancar
 tranco
 transa
@@ -7291,11 +7294,8 @@ tritão
 triunfo
 trivial
 troca
-troça
 trocado
-troçar
 trocar
-troço
 troco
 troféu
 trófico
@@ -7475,6 +7475,7 @@ varejo
 vareta
 variado
 variar
+varíola
 vários
 variz
 varrer
@@ -7512,7 +7513,6 @@ velo
 velório
 veloz
 veludo
-vençer
 vencer
 vencido
 venda
@@ -7594,7 +7594,6 @@ vide
 videira
 vidente
 vídeo
-video
 vidinha
 vidraça
 vidrado
@@ -7681,6 +7680,7 @@ viveiro
 vivenda
 vivente
 viver
+víveres
 vivido
 vivo
 vizinho
