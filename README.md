@@ -11,6 +11,4 @@ Conteúdo beseado do método [Diceware](http://world.std.com/~reinhold/diceware.
 
 `fontes/dicewarekit.txt`: http://world.std.com/~reinhold/dicewarekit.html
 
-`fontes/filtered.txt`: sub-conjunto licenciado de http://www.corpusdoportugues.org/
-
-`fontes/molho-especial.txt`: siglas, símbolos e palavras acrescentadas arbitrariamente
+`fontes/com_acentos.txt`: sub-conjunto licenciado de http://www.corpusdoportugues.org/
