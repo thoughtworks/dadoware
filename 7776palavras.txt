@@ -1279,7 +1279,6 @@ caçoar
 cacto
 caçula
 cada
-cadáver
 cade
 cadeado
 cadeia
@@ -7198,6 +7197,7 @@ torque
 torrado
 torrão
 torre
+torreão
 torso
 torto
 toscana
