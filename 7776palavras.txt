@@ -1396,6 +1396,7 @@ cantão
 cantar
 cântaro
 cantata
+cântico
 cantiga
 cantina
 canto
@@ -3875,6 +3876,7 @@ indigno
 indutor
 induzir
 inédito
+inépcia
 inércia
 inerte
 infame
@@ -7435,7 +7437,6 @@ vaga
 vagão
 vagar
 vagem
-vaginal
 vago
 vaguear
 vaia
@@ -7530,7 +7531,6 @@ ventral
 ventre
 ventura
 venture
-vénus
 ver
 vera
 verão
@@ -7706,7 +7706,7 @@ volúpia
 volver
 volvido
 vomitar
-vómito
+vômito
 von
 vontade
 voo
