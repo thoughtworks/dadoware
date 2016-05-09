@@ -19,5 +19,5 @@ dados5 = list(''.join(dados) for dados in itertools.product('123456', repeat=5))
 
 for indice, palavra in zip(dados5, palavras):
     if listar_3_dados:
-        indice = '[{}['.format(indice[-3:])
+        indice = '.{}'.format(indice[-3:])
     print(indice, palavra)
