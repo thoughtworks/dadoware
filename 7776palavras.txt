@@ -1627,7 +1627,6 @@ céu
 cevado
 chá
 chácara
-chacina
 chacota
 chaga
 chalé
@@ -4181,6 +4180,7 @@ leasing
 lebre
 led
 ledo
+legação
 legado
 legal
 legar
@@ -5184,6 +5184,7 @@ opção
 operar
 opereta
 opinar
+opinião
 ópio
 opor
 oposto
@@ -7337,7 +7338,6 @@ túlio
 tulipa
 tumba
 túmido
-tumor
 tumular
 túmulo
 tumulto
