@@ -1919,6 +1919,7 @@ confins
 confuso
 congro
 cónico
+cônjuge
 conluio
 console
 consolo
@@ -2365,7 +2366,6 @@ distar
 dístico
 dita
 ditado
-ditador
 ditame
 ditar
 dito
@@ -3717,6 +3717,7 @@ herpes
 hertz
 hesitar
 hiato
+híbrido
 hidra
 hidrato
 hídrico
@@ -4042,7 +4043,8 @@ judaico
 judas
 judeu
 judia
-judo
+judô
+judoca
 jugo
 juiz
 juíza
@@ -4119,6 +4121,7 @@ lamento
 lâmina
 lâmpada
 lampejo
+lamúria
 lança
 lançado
 lançar
@@ -4381,6 +4384,7 @@ louvar
 louvor
 lua
 luar
+lúbrico
 lucidez
 lúcido
 lúcifer
@@ -5961,9 +5965,6 @@ rabisco
 raça
 ração
 rachar
-racial
-racismo
-racista
 radar
 radial
 radiar
@@ -5972,7 +5973,6 @@ radicar
 rádio
 radioso
 rafeiro
-râguebi
 raia
 raiar
 raide
@@ -6352,6 +6352,7 @@ rolar
 roldão
 roleta
 rolha
+roliçar
 roliço
 roll
 rolo
@@ -6406,6 +6407,7 @@ ruela
 rufar
 rufo
 ruga
+rugby
 rugido
 rugir
 rugoso
@@ -7121,8 +7123,6 @@ tira
 tirado
 tiragem
 tirana
-tirania
-tirano
 tirante
 tirar
 tiritar
