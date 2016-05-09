@@ -1,9 +1,10 @@
-# Dadoware
-Diceware em português do Brasil
+# DADOWARE
+
+## Diceware em português do Brasil
 
 Lista de palavras e instruções para criação de senhas seguras e razoavelmente amigáveis.
 
-Conteúdo beseado do método [Diceware](http://world.std.com/~reinhold/diceware.html) criado por Arnold G. Reinhold.
+Conteúdo baseado do método [Diceware](http://world.std.com/~reinhold/diceware.html) criado por Arnold G. Reinhold.
 
 ## Livreto pronto para imprimir
 
