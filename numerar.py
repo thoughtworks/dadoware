@@ -5,7 +5,7 @@
 import sys
 import itertools
 
-PATH_PALAVRAS = '7776palavras.txt'
+PATH_PALAVRAS = '7776palavras-2e.txt'
 
 if len(sys.argv) == 2 and sys.argv[1] == '3':
     listar_3_dados = True
