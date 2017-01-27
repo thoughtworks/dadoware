@@ -1,11 +1,13 @@
 CAPA:
 Leticia Nunes
+
+TIRINHA:
 Randall Munroe (XKCD)
 
-TEXTO:
+TEXTO, MIOLO E CÓDIGO:
 Luciano Ramalho
 
-REVISÃO:
+REVISÃO E SELEÇÃO DE PALAVRAS:
 Ana Paula Gomes
 Anna Cruz
 Bonifacio de Oliveira
@@ -21,3 +23,11 @@ Thais Siqueira
 Tiago Megale
 Tulio Casagrande
 Vitor Gomes
+
+CORPUS DE PALAVRAS COMUNS DO PORTUGUÊS:
+Mark Davies (BYU)
+
+IDEIAS:
+Alexey Boas
+Denis Costa
+Ola Bini
