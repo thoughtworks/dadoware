@@ -1,5 +1,11 @@
 # DADOWARE
 
+Dadoware is a Brazilian Portuguese diceware with a word list and instructions to create a safe and friendly password.
+
+Based on the [Diceware](http://world.std.com/~reinhold/diceware.html) method create by Arnold G. Reinhold.
+
+You can find our licence [here](https://github.com/thoughtworks/dadoware/blob/master/LICENSE)
+
 ## Diceware em português do Brasil
 
 Lista de palavras e instruções para criação de senhas seguras e razoavelmente amigáveis.
